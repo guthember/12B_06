@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokFeltetelig\bin\Debug\SzamokFeltetelig.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokFeltetelig\bin\Debug\SzamokFeltetelig.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokFeltetelig\obj\x86\Debug\SzamokFeltetelig.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\SzamokFeltetelig\obj\x86\Debug\SzamokFeltetelig.pdb
